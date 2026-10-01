@@ -1,0 +1,13 @@
+#div {
+    height: 100px; 
+    overflow: hidden; 
+    
+}
+
+#toggleBtn {
+    display: inline-block;
+    margin-top: 10px;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
